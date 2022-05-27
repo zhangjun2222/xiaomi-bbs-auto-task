@@ -8,7 +8,7 @@ pip3 install requests
 * 每日任务  
     * 每日五题(10分)和每日打开App(4分)  
     * 将账号密码填入`Daily\data\accounts.json`  
-    * 在该项目的根目录下输入`python3 daily.py`即可运行  
+    * 在该项目目录下输入`python3 daily.py`即可运行  
         * 建议设置定时运行  
         * 若出现未收录题目将会随机选择, 并在之后自动收录题目的正确选项  
     * 青龙面板部署:
